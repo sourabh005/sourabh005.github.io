@@ -4,7 +4,7 @@
   
   <url>
     <loc>/fr/categories/</loc>
-    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,28 +18,33 @@
   </url>
   
   <url>
-    <loc>/fr/posts/2020/03/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
-    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <loc>/fr/categories/hugo/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fr/categories/jekyll/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fr/posts/2020/03/migrer-vers-hugo-depuis-jekyll/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/2020/03/creating-a-new-theme/"
+                href="/posts/2020/03/migrate-to-hugo-from-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/2020/03/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
+                href="/fr/posts/2020/03/migrer-vers-hugo-depuis-jekyll/"
                 />
   </url>
   
   <url>
-    <loc>/fr/categories/hugo/</loc>
-    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/fr/posts/</loc>
-    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +59,7 @@
   
   <url>
     <loc>/fr/</loc>
-    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,57 +73,52 @@
   </url>
   
   <url>
-    <loc>/fr/posts/2014/04/d%C3%A9buter-avec-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/fr/posts/2020/03/d%C3%A9buter-avec-hugo/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/2014/04/getting-started-with-hugo/"
+                href="/posts/2020/03/getting-started-with-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
+                href="/fr/posts/2020/03/d%C3%A9buter-avec-hugo/"
                 />
   </url>
   
   <url>
     <loc>/fr/categories/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/fr/posts/2020/03/introduction-aux-mod%C3%A8les-hugo/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/2014/04/hugo-template-primer/"
+                href="/posts/2020/03/hugo-template-primer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
+                href="/fr/posts/2020/03/introduction-aux-mod%C3%A8les-hugo/"
                 />
   </url>
   
   <url>
-    <loc>/fr/categories/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>/fr/posts/2020/02/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/2014/03/migrate-to-hugo-from-jekyll/"
+                href="/posts/2020/02/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
+                href="/fr/posts/2020/02/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
                 />
   </url>
   
